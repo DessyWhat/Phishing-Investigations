@@ -1,2 +1,2 @@
 # Phishing-Investigations
-Walkthrough of Phishing Emails I've received.
+Walkthrough of Investigating Phishing Emails I've received.
